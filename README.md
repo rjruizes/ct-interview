@@ -5,7 +5,7 @@ This repo is my solution to an [interview exercise](https://gist.github.com/svaj
 
 ### Objective
 
-> Given a list of Etsy Shop IDs, synchronizes the shops' listings to several files, outputting what has been added or removed since the last run. Example output:
+> Given a list of Etsy Shop IDs, synchronize Etsy shops' listings to several files, outputting what has been added or removed since the last run. Example output:
 
 ```
 Shop ID 234234
