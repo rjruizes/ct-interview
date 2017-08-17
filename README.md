@@ -28,12 +28,12 @@ cd ct-interview
 EXPORT ETSY_API_KEY="your-api-key"
 ```
 
-To run with some sample data from the `test` directory:
+To run with some hardcoded Etsy shop IDs:
 ```
 node index.js
 ```
 
-To run with some specific Etsy shop IDs
+To provide your own Etsy shop IDs
 ```
 node index.js 234234 9875 93580
 ```
