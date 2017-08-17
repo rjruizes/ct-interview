@@ -60,4 +60,4 @@ I didn't write any tests.
 
 #### Any other notes you'd like to share
 
-On first read of the prompt, I felt it could've been clearer. It could have told me to register with Etsy for an API key. The task was a good one, but it's not straightforward to test. I don't have shops to add and remove listings for.
+On first read of the prompt, I felt it could've been clearer. It could have told me to register with Etsy for an API key. Overall, the task was a good one.
